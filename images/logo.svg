@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.195" height="45.908" viewBox="0 0 56.195 45.908">
+  <g id="LOGO" transform="translate(0 0.683)">
+    <g id="LOGO-2" data-name="LOGO">
+      <g id="Group_1" data-name="Group 1" transform="translate(-115.661 -4.111)">
+        <path id="Path_1" data-name="Path 1" d="M2110.125,29.287l43.8-.243s-2.74,19.73-21.914,20.281S2110.125,29.287,2110.125,29.287Z" transform="translate(-1990)" fill="#d92504"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="22" cy="5" rx="22" ry="5" transform="translate(120 24)" fill="#981700"/>
+      </g>
+      <path id="Icon_ionic-ios-heart" data-name="Icon ionic-ios-heart" d="M11.179,3.938h-.026A2.921,2.921,0,0,0,8.714,5.272,2.921,2.921,0,0,0,6.276,3.938H6.25a2.9,2.9,0,0,0-2.875,2.9A6.249,6.249,0,0,0,4.6,10.245a21.5,21.5,0,0,0,4.112,3.961,21.5,21.5,0,0,0,4.112-3.961,6.249,6.249,0,0,0,1.227-3.406A2.9,2.9,0,0,0,11.179,3.938Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 36.386, 6.35)" fill="#ff5c5c" stroke="#fff" stroke-width="1"/>
+      <path id="Icon_ionic-ios-heart-2" data-name="Icon ionic-ios-heart" d="M7.935,3.938H7.92a1.707,1.707,0,0,0-1.425.78,1.707,1.707,0,0,0-1.425-.78H5.055a1.7,1.7,0,0,0-1.68,1.695,3.651,3.651,0,0,0,.717,1.991,12.565,12.565,0,0,0,2.4,2.314A12.565,12.565,0,0,0,8.9,7.623a3.651,3.651,0,0,0,.717-1.991A1.7,1.7,0,0,0,7.935,3.938Z" transform="matrix(0.809, -0.588, 0.588, 0.809, -5.045, 16.364)" fill="#ff5c5c"/>
+      <path id="Icon_ionic-ios-heart-3" data-name="Icon ionic-ios-heart" d="M9.152,3.937H9.133a2.162,2.162,0,0,0-1.805.988,2.162,2.162,0,0,0-1.805-.988H5.5A2.149,2.149,0,0,0,3.375,6.085a4.626,4.626,0,0,0,.908,2.522,15.919,15.919,0,0,0,3.044,2.932,15.919,15.919,0,0,0,3.044-2.932,4.626,4.626,0,0,0,.908-2.522A2.149,2.149,0,0,0,9.152,3.937Z" transform="translate(13.186 -5.097) rotate(30)" fill="#ff5c5c" stroke="#fff" stroke-width="1"/>
+      <path id="Icon_ionic-ios-heart-4" data-name="Icon ionic-ios-heart" d="M6.6,3.937H6.59a1.207,1.207,0,0,0-1.008.552,1.207,1.207,0,0,0-1.008-.552H4.563a1.2,1.2,0,0,0-1.188,1.2,2.583,2.583,0,0,0,.507,1.408,8.888,8.888,0,0,0,1.7,1.637,8.888,8.888,0,0,0,1.7-1.637,2.583,2.583,0,0,0,.507-1.408A1.2,1.2,0,0,0,6.6,3.937Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 26.604, 2.971)" fill="#ff5c5c"/>
+    </g>
+    <text id="T" transform="translate(5.381 19.534) rotate(-14)" fill="#d92504" font-size="14" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text id="O" transform="matrix(0.899, 0.438, -0.438, 0.899, 9.121, 23.596)" fill="#d92504" font-size="14" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+    <text id="S" transform="matrix(0.899, 0.438, -0.438, 0.899, 16.154, 13.147)" fill="#d92504" font-size="14" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">S</tspan></text>
+    <text id="S-2" data-name="S" transform="translate(25.933 27.247) rotate(-20)" fill="#d92504" font-size="14" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">S</tspan></text>
+    <text id="E" transform="translate(32.485 17.764) rotate(2)" fill="#d92504" font-size="14" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+    <text id="D" transform="translate(37.302 22.009) rotate(43)" fill="#d92504" font-size="14" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+  </g>
+</svg>
