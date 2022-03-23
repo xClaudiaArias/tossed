@@ -47,6 +47,10 @@ nav ul li a:hover {
     border-bottom: 2px dotted #D92504;
 }
 
+nav ul li a:active {
+    border-bottom: 2px dotted #D92504;
+}
+
 nav ul li button {
     width: 114px;
     height: 34px;
@@ -76,12 +80,91 @@ nav ul li button {
 }
 
 #hero-img {
-    width: 500px;
-    height: 500px;
+    width: 680px;
+    height: 680px;
     object-fit: cover;
+    position: absolute;
+    z-index: 0;
+    left: 720px;
+    transform: rotate(72deg);
 }
 
 #hero-img-munch {
     width: 560px;
-    height: 534px;
+    height: 534.41px;
+    position: absolute;
+    z-index: -1;
+    left: 800px;
+    top: 160px;
+}
+
+main {
+    width: 100vw;
+    height: 700px;
+    display: flex;
+}
+
+main #call {
+    flex: 1;
+    text-align: center;
+}
+
+main #hero-img-container {
+    flex: 1;
+}
+
+#right-munch {
+    width: 144px;
+    height: 302px;
+    position: absolute;
+    z-index: -1;
+    right: -110px;
+}
+
+main #call h3 {
+    color: #D92504;
+    font-family: 'PT Serif', serif;
+    font-weight: 100;
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 120px;
+    padding: 5px 0;
+}
+main #call h1 {
+    text-transform: uppercase;
+    color: white;
+    font-size: 4.6rem;
+    width: 400px;
+    margin-left: 22%;
+    padding: 10px 0 20px;
+}
+
+#left-strawberry {
+    width: 300px;
+    height: 344px;
+    position: absolute;
+    z-index: -1;
+    left: -80px;
+    top: 480px;
+}
+
+#call-btns button {
+    width: 180px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 50px;
+    border: none;
+    text-transform: uppercase;
+    margin-left: 18px;
+}
+
+#call-btns #order {
+    background-color: #D92504;
+    color: white;
+}
+
+#call-btns #more-info {
+    background-color: #FFC425;
+    color: #D92504;
+    border: 2px solid #D92504;
 }
