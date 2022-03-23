@@ -326,6 +326,39 @@ footer {
     color: #D92504;
 }
 
+#newsletter {
+    height: 100px;
+    font-weight: 100;
+    font-size: 14px;
+    color: #717171;
+    padding: 5px 0;
+}
+
+#newsletter input[type="email"] {
+    margin-top: 16px;
+    display: block;
+    width: 168px;
+    height: 20px;
+    border: 1px solid #C9C9C9;
+    border-radius: 50px;
+}
+
+#newsletter input[type="email"]::placeholder {
+    color: #C9C9C9;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+#newsletter button {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 28px;
+    background-color: #FF5C5C;
+    color: white;
+    margin-top: 10px;
+    margin-left: 40px;
+}
 
 
 
