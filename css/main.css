@@ -292,5 +292,43 @@ main #call h1 {
     left: 438px;
 }
 
+footer {
+    width: 100vw;
+    height: 221px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 180px;
+}
+
+#about-us ul li,
+#faq ul li,
+#socials ul li  {
+    list-style-type: none;
+    padding: 8px 0;
+    font-weight: 100;
+}
+
+#about-us ul li a,
+#faq ul li a,
+#socials ul li a  {
+    text-decoration: none;
+    font-size: 14px;
+    color: #717171; 
+}
+
+#about-us ul li a:hover,
+#faq ul li a:hover,
+#socials ul li a:hover  {
+    text-decoration: none;
+    font-size: 14px;
+    color: #D92504;
+}
+
+
+
+
+
 
 
