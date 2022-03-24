@@ -302,6 +302,13 @@ footer {
     padding: 50px 180px;
 }
 
+#footer-munch {
+    position: absolute;
+    width: 300px;
+    top: 1583px;
+    left: 60px;
+}
+
 #about-us ul li,
 #faq ul li,
 #socials ul li  {
@@ -358,7 +365,32 @@ footer {
     color: white;
     margin-top: 10px;
     margin-left: 40px;
+    font-size: 14px;
+    box-shadow: 0 3px 6px rgba(0,0,0,.16);
 }
+
+#socials {
+    width: 140px;
+    font-size: 14px;
+    color: #717171;
+    font-weight: 100;
+    height: 100px;
+    padding: 5px 0;
+    text-align: center;
+}
+
+#socials ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 8px;
+}
+
+.icons {
+    width: 24px;
+    height: 24px;
+}
+
 
 
 

@@ -5,6 +5,25 @@
             "sizes": "196x196",
             "type": "image/png",
             "purpose": "any maskable"
+        },
+        {
+            "src": "./images/ig.svg",
+            "sizes": "196x196",
+            "type": "image/svg",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./images/tt.svg",
+            "sizes": "196x196",
+            "type": "image/svg",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./images/fb.svg",
+            "sizes": "196x196",
+            "type": "image/svg",
+            "purpose": "any maskable"
         }
-    ]
+    ],
+    "start_url": "/index.html"
 }
